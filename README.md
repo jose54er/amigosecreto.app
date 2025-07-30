@@ -39,3 +39,20 @@ Una vez que el juego esté abierto en tu navegador:
 4.  **Ver al Ganador:** El nombre del ganador único aparecerá debajo del botón de sorteo.
 
 ## Estructura del Proyecto
+├── index.html
+├── style.css
+├── app.js
+└── assets/
+├── amigo-secreto.png
+└── play_circle_outline.png
+
+
+## Posibles Mejoras
+
+* Opción para reiniciar la lista de nombres.
+* Mensajes de error más específicos (ej. si se intenta sortear sin nombres).
+* Animaciones simples al momento del sorteo para mayor dinamismo.
+
+---
+
+Desarrollado con ❤️
